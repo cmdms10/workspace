@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrintExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JV21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JV21/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalcExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalcExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,22 +22,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="423" />
+          <entry key="java" value="622" />
+          <entry key="txt" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="423" />
+          <entry key="JAVA" value="622" />
+          <entry key="PLAIN_TEXT" value="37" />
         </counts>
       </usages-collector>
     </session>
@@ -83,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VariableExample2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CalcExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -111,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/PrintExample2.java" />
         <option value="$PROJECT_DIR$/src/VariableExample.java" />
         <option value="$PROJECT_DIR$/src/VariableExample2.java" />
+        <option value="$PROJECT_DIR$/src/CalcExample.java" />
       </list>
     </option>
   </component>
@@ -150,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537881098193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537885329843" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -166,7 +174,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VariableExample2">
+  <component name="RunManager" selected="Application.CalcExample">
+    <configuration name="CalcExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcExample" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintExample" />
       <module name="java" />
@@ -200,9 +215,11 @@
       <item itemvalue="Application.PrintExample2" />
       <item itemvalue="Application.VariableExample" />
       <item itemvalue="Application.VariableExample2" />
+      <item itemvalue="Application.CalcExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcExample" />
         <item itemvalue="Application.VariableExample2" />
         <item itemvalue="Application.VariableExample" />
         <item itemvalue="Application.PrintExample2" />
@@ -220,12 +237,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537879924887</updated>
-      <workItem from="1537879926489" duration="945000" />
+      <workItem from="1537879926489" duration="2809000" />
     </task>
+    <task id="LOCAL-00001" summary="出力サンプル１">
+      <created>1537880994913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537880994914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="出力サンプル２">
+      <created>1537881006206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537881006206</updated>
+    </task>
+    <task id="LOCAL-00003" summary="変数の出力サンプル１">
+      <created>1537881048530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537881048530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="変数の出力サンプル２">
+      <created>1537881064228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537881064228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新">
+      <created>1537881146785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537881146785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="計算をするサンプルプログラム">
+      <created>1537881437090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537881437090</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="945000" />
+    <option name="totallyTimeSpent" value="2809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="794" extended-state="0" />
@@ -267,6 +327,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="出力サンプル１" />
+    <MESSAGE value="出力サンプル２" />
+    <MESSAGE value="変数の出力サンプル１" />
+    <MESSAGE value="変数の出力サンプル２" />
+    <MESSAGE value="更新" />
+    <MESSAGE value="計算をするサンプルプログラム" />
+    <option name="LAST_COMMIT_MESSAGE" value="計算をするサンプルプログラム" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/PrintExample.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -301,6 +370,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CalcExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

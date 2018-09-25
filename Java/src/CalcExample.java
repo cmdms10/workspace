@@ -4,8 +4,13 @@ public class CalcExample {
 
         int i = 4;
         int j = i + 7;
-        int k = j + i * 3;
+        double k = j + i * 3;
 
         System.out.println(k);
+
+         k /= 3;
+
+         System.out.println(k);
+
     }
 }

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CallMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CallMethodExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CallMethodExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArgmentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,57 +58,32 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="1485" />
-          <entry key="txt" value="30" />
+          <entry key="java" value="2243" />
+          <entry key="txt" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1485" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="JAVA" value="2243" />
+          <entry key="PLAIN_TEXT" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ElseExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwitchExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LosicalSumExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ForExample.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,11 +142,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CallMethodExample3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CallMethodExample4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArgmentExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InputExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -217,6 +222,9 @@
         <option value="$PROJECT_DIR$/src/CallMethodExample.java" />
         <option value="$PROJECT_DIR$/src/CallMethodExample2.java" />
         <option value="$PROJECT_DIR$/src/CallMethodExample3.java" />
+        <option value="$PROJECT_DIR$/src/CallMethodExample4.java" />
+        <option value="$PROJECT_DIR$/src/ArgmentExample.java" />
+        <option value="$PROJECT_DIR$/src/InputExample.java" />
       </list>
     </option>
   </component>
@@ -226,7 +234,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="794" />
@@ -259,13 +267,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/masato/workspace/Java/src/SwitchExample.java" />
+    <property name="SearchEverywhereHistoryKey" value="受け取った値&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538140831517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538149454150" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -279,16 +287,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CallMethodExample3">
-    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExample2" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallMethodExample" />
+  <component name="RunManager" selected="Application.InputExample">
+    <configuration name="ArgmentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgmentExample" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -308,27 +309,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomExample" />
+    <configuration name="CallMethodExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CallMethodExample4" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputExample" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayExample2" />
-      <item itemvalue="Application.RandomExample" />
-      <item itemvalue="Application.CallMethodExample" />
       <item itemvalue="Application.CallMethodExample2" />
       <item itemvalue="Application.CallMethodExample3" />
+      <item itemvalue="Application.CallMethodExample4" />
+      <item itemvalue="Application.ArgmentExample" />
+      <item itemvalue="Application.InputExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputExample" />
+        <item itemvalue="Application.ArgmentExample" />
+        <item itemvalue="Application.CallMethodExample4" />
         <item itemvalue="Application.CallMethodExample3" />
         <item itemvalue="Application.CallMethodExample2" />
-        <item itemvalue="Application.CallMethodExample" />
-        <item itemvalue="Application.RandomExample" />
-        <item itemvalue="Application.ArrayExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +353,7 @@
       <workItem from="1537879926489" duration="6980000" />
       <workItem from="1537973532343" duration="1646000" />
       <workItem from="1538120219282" duration="2241000" />
-      <workItem from="1538138642279" duration="2002000" />
+      <workItem from="1538138642279" duration="4230000" />
     </task>
     <task id="LOCAL-00001" summary="出力サンプル１">
       <created>1537880994913</created>
@@ -529,7 +537,42 @@
       <option name="project" value="LOCAL" />
       <updated>1538122350736</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="クラスメソッド１">
+      <created>1538140806384</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1538140806384</updated>
+    </task>
+    <task id="LOCAL-00028" summary="クラスメソッド２">
+      <created>1538140828451</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1538140828451</updated>
+    </task>
+    <task id="LOCAL-00029" summary="引数を使ったクラスメソッド３">
+      <created>1538140858262</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1538140858262</updated>
+    </task>
+    <task id="LOCAL-00030" summary="更新">
+      <created>1538140871777</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1538140871777</updated>
+    </task>
+    <task id="LOCAL-00031" summary="引数を２つ使ったクラスメソッド">
+      <created>1538141798405</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1538141798406</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -538,13 +581,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12869000" />
+    <option name="totallyTimeSpent" value="15097000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="794" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="805" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -553,7 +595,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32478634" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31977558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -599,8 +641,12 @@
     <MESSAGE value="配列サンプル２" />
     <MESSAGE value="for文" />
     <MESSAGE value="乱数（じゃんけん）" />
+    <MESSAGE value="クラスメソッド１" />
+    <MESSAGE value="クラスメソッド２" />
+    <MESSAGE value="引数を使ったクラスメソッド３" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="引数を２つ使ったクラスメソッド" />
+    <option name="LAST_COMMIT_MESSAGE" value="引数を２つ使ったクラスメソッド" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VariableExample.java">
@@ -756,8 +802,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CallMethodExample3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CallMethodExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArgmentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>

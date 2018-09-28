@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForExample.java" afterDir="false" />
+    <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="更新">
+      <change afterPath="$PROJECT_DIR$/src/ArrayExample2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ForExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,31 +49,33 @@
     <session id="-1208902073">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="380" />
+          <entry key="dummy" value="3" />
+          <entry key="java" value="720" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="380" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="720" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -120,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/src/LosicalSumExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,16 +131,34 @@
         <entry file="file://$PROJECT_DIR$/src/ForExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ForExample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayExample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ForExample2.java">
+        <entry file="file://$PROJECT_DIR$/src/RandomExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -176,6 +196,9 @@
         <option value="$PROJECT_DIR$/src/Forexample.java" />
         <option value="$PROJECT_DIR$/src/ForExample.java" />
         <option value="$PROJECT_DIR$/src/ForExample2.java" />
+        <option value="$PROJECT_DIR$/src/ArratExample.java" />
+        <option value="$PROJECT_DIR$/src/ArrayExample2.java" />
+        <option value="$PROJECT_DIR$/src/RandomExample.java" />
       </list>
     </option>
   </component>
@@ -196,7 +219,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,14 +237,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/masato/workspace/Java/src/SwitchExample.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538009562840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538122312284" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -237,9 +260,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForExample2">
-    <configuration name="ElseExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElseExample2" />
+  <component name="RunManager" selected="Application.RandomExample">
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample2" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -266,27 +289,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchExample" />
+    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomExample" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ElseExample2" />
-      <item itemvalue="Application.SwitchExample" />
       <item itemvalue="Application.LosicalSumExample" />
       <item itemvalue="Application.ForExample" />
       <item itemvalue="Application.ForExample2" />
+      <item itemvalue="Application.ArrayExample2" />
+      <item itemvalue="Application.RandomExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomExample" />
+        <item itemvalue="Application.ArrayExample2" />
         <item itemvalue="Application.ForExample2" />
         <item itemvalue="Application.ForExample" />
         <item itemvalue="Application.LosicalSumExample" />
-        <item itemvalue="Application.SwitchExample" />
-        <item itemvalue="Application.ElseExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +324,8 @@
       <option name="presentableId" value="Default" />
       <updated>1537879924887</updated>
       <workItem from="1537879926489" duration="6980000" />
-      <workItem from="1537973532343" duration="1528000" />
+      <workItem from="1537973532343" duration="1646000" />
+      <workItem from="1538120219282" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="出力サンプル１">
       <created>1537880994913</created>
@@ -436,7 +460,28 @@
       <option name="project" value="LOCAL" />
       <updated>1537973667976</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="更新">
+      <created>1538009514393</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1538009514393</updated>
+    </task>
+    <task id="LOCAL-00021" summary="更新">
+      <created>1538009558903</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1538009558903</updated>
+    </task>
+    <task id="LOCAL-00022" summary="更新">
+      <created>1538009579510</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1538009579510</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -445,13 +490,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8508000" />
+    <option name="totallyTimeSpent" value="10537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="デザイナー" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -460,7 +505,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32478634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -608,14 +653,14 @@
     <entry file="file://$PROJECT_DIR$/src/LosicalSumExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ForExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -623,6 +668,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

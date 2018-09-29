@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArgmentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputExample.java" afterDir="false" />
+    <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="更新">
+      <change afterPath="$PROJECT_DIR$/src/ReturnExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,51 +56,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="3" />
-          <entry key="java" value="2243" />
-          <entry key="txt" value="70" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="2723" />
+          <entry key="txt" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2243" />
-          <entry key="PLAIN_TEXT" value="73" />
+          <entry key="JAVA" value="2723" />
+          <entry key="PLAIN_TEXT" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="11" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ForExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ForExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayExample2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -173,11 +154,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InputExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReturnExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReturnExample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -225,6 +228,9 @@
         <option value="$PROJECT_DIR$/src/CallMethodExample4.java" />
         <option value="$PROJECT_DIR$/src/ArgmentExample.java" />
         <option value="$PROJECT_DIR$/src/InputExample.java" />
+        <option value="$PROJECT_DIR$/src/getAreaOfcircle.java" />
+        <option value="$PROJECT_DIR$/src/ReturnExample.java" />
+        <option value="$PROJECT_DIR$/src/ReturnExample2.java" />
       </list>
     </option>
   </component>
@@ -270,7 +276,7 @@
     <property name="SearchEverywhereHistoryKey" value="受け取った値&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538149454150" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538199136261" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -287,23 +293,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputExample">
+  <component name="RunManager" selected="Application.ReturnExample2">
     <configuration name="ArgmentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgmentExample" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallMethodExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallMethodExample2" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallMethodExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallMethodExample3" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -323,20 +315,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnExample" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnExample2" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CallMethodExample2" />
-      <item itemvalue="Application.CallMethodExample3" />
       <item itemvalue="Application.CallMethodExample4" />
       <item itemvalue="Application.ArgmentExample" />
       <item itemvalue="Application.InputExample" />
+      <item itemvalue="Application.ReturnExample" />
+      <item itemvalue="Application.ReturnExample2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnExample2" />
+        <item itemvalue="Application.ReturnExample" />
         <item itemvalue="Application.InputExample" />
         <item itemvalue="Application.ArgmentExample" />
         <item itemvalue="Application.CallMethodExample4" />
-        <item itemvalue="Application.CallMethodExample3" />
-        <item itemvalue="Application.CallMethodExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +359,7 @@
       <workItem from="1537879926489" duration="6980000" />
       <workItem from="1537973532343" duration="1646000" />
       <workItem from="1538120219282" duration="2241000" />
-      <workItem from="1538138642279" duration="4230000" />
+      <workItem from="1538138642279" duration="5978000" />
     </task>
     <task id="LOCAL-00001" summary="出力サンプル１">
       <created>1537880994913</created>
@@ -572,7 +578,35 @@
       <option name="project" value="LOCAL" />
       <updated>1538141798406</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="mainメソッドの引数">
+      <created>1538149452340</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1538149452340</updated>
+    </task>
+    <task id="LOCAL-00033" summary="キーボードからの入力を受け取る">
+      <created>1538149496120</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1538149496120</updated>
+    </task>
+    <task id="LOCAL-00034" summary="更新">
+      <created>1538149508558</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1538149508558</updated>
+    </task>
+    <task id="LOCAL-00035" summary="戻り値のあるメソッド">
+      <created>1538199133883</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1538199133883</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -581,10 +615,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15097000" />
+    <option name="totallyTimeSpent" value="16845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -623,7 +658,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="出力サンプル１" />
     <MESSAGE value="出力サンプル２" />
     <MESSAGE value="変数の出力サンプル１" />
     <MESSAGE value="変数の出力サンプル２" />
@@ -644,9 +678,12 @@
     <MESSAGE value="クラスメソッド１" />
     <MESSAGE value="クラスメソッド２" />
     <MESSAGE value="引数を使ったクラスメソッド３" />
-    <MESSAGE value="更新" />
     <MESSAGE value="引数を２つ使ったクラスメソッド" />
-    <option name="LAST_COMMIT_MESSAGE" value="引数を２つ使ったクラスメソッド" />
+    <MESSAGE value="mainメソッドの引数" />
+    <MESSAGE value="キーボードからの入力を受け取る" />
+    <MESSAGE value="更新" />
+    <MESSAGE value="戻り値のあるメソッド" />
+    <option name="LAST_COMMIT_MESSAGE" value="戻り値のあるメソッド" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VariableExample.java">
@@ -830,8 +867,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InputExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReturnExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReturnExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,3 @@
-class StudentCard {
-    int id; //学生番号
-    String name; //氏名
-}
-
 public class InstanceExample {
     public static void main(String[] args) {
         StudentCard a = new StudentCard();

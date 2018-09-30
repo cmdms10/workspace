@@ -21,10 +21,16 @@ class StudentCard {
         System.out.println(StudentCard.counter);
     }
 
+    /*
     //クラスメソッドの宣言(メソッド(機能)の宣言)
     static double getTriangleArea(double base, double height) {
         return base * height / 2;
     }
+    */
+
+
+
+
 }
 
 

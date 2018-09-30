@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IStudentCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverrideExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample1/src/StudentCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample1/src/StudentCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InstanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstanceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VirtualPetGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VirtualPetGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,13 +59,13 @@
           <entry key="dummy" value="23" />
           <entry key="ft" value="2" />
           <entry key="java" value="10157" />
-          <entry key="txt" value="345" />
+          <entry key="txt" value="407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="10157" />
-          <entry key="PLAIN_TEXT" value="368" />
+          <entry key="PLAIN_TEXT" value="430" />
           <entry key="VTL" value="2" />
         </counts>
       </usages-collector>
@@ -244,7 +238,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/masato/workspace/Java/constract_test/src/ConstractorExample.java&#10;受け取った値&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538294161716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538294260524" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -331,49 +325,7 @@
       <workItem from="1537879926489" duration="6980000" />
       <workItem from="1537973532343" duration="1646000" />
       <workItem from="1538120219282" duration="2241000" />
-      <workItem from="1538138642279" duration="33077000" />
-    </task>
-    <task id="LOCAL-00008" summary="型変換プログラム">
-      <created>1537885799872</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1537885799872</updated>
-    </task>
-    <task id="LOCAL-00009" summary="整数どうしの割り算">
-      <created>1537886114932</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1537886114932</updated>
-    </task>
-    <task id="LOCAL-00010" summary="String型文字列連結">
-      <created>1537886396537</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1537886396537</updated>
-    </task>
-    <task id="LOCAL-00011" summary="練習問題2_1">
-      <created>1537886807150</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1537886807150</updated>
-    </task>
-    <task id="LOCAL-00012" summary="練習問題2_4">
-      <created>1537886817486</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1537886817486</updated>
-    </task>
-    <task id="LOCAL-00013" summary="if文">
-      <created>1537887086736</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1537887086736</updated>
+      <workItem from="1538138642279" duration="33321000" />
     </task>
     <task id="LOCAL-00014" summary="if~else文">
       <created>1537887331886</created>
@@ -676,7 +628,49 @@
       <option name="project" value="LOCAL" />
       <updated>1538279312989</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="フィールドとメソッドの継承サンプル">
+      <created>1538294086814</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294086814</updated>
+    </task>
+    <task id="LOCAL-00058" summary="サブクラス作成">
+      <created>1538294160637</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294160638</updated>
+    </task>
+    <task id="LOCAL-00059" summary="オーバーライドサンプル">
+      <created>1538294183258</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294183258</updated>
+    </task>
+    <task id="LOCAL-00060" summary="更新">
+      <created>1538294196363</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294196363</updated>
+    </task>
+    <task id="LOCAL-00061" summary="StudentCardクラス更新">
+      <created>1538294237910</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294237910</updated>
+    </task>
+    <task id="LOCAL-00062" summary="更新">
+      <created>1538294256908</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1538294256908</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -688,7 +682,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43944000" />
+    <option name="totallyTimeSpent" value="44188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
@@ -731,10 +725,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="乱数（じゃんけん）" />
-    <MESSAGE value="クラスメソッド１" />
-    <MESSAGE value="クラスメソッド２" />
-    <MESSAGE value="引数を使ったクラスメソッド３" />
     <MESSAGE value="引数を２つ使ったクラスメソッド" />
     <MESSAGE value="mainメソッドの引数" />
     <MESSAGE value="キーボードからの入力を受け取る" />
@@ -755,6 +745,10 @@
     <MESSAGE value="コンストラクタ" />
     <MESSAGE value="コンストラクタフォルダ作成" />
     <MESSAGE value="サンプル１フォルダ作成" />
+    <MESSAGE value="フィールドとメソッドの継承サンプル" />
+    <MESSAGE value="サブクラス作成" />
+    <MESSAGE value="オーバーライドサンプル" />
+    <MESSAGE value="StudentCardクラス更新" />
     <MESSAGE value="更新" />
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>

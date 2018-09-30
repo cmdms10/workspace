@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b721617a-4eed-47d1-b47f-715cbcf3c647" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/constract_test/constract_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constract_test/src/ConstractorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample1/sample1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IStudentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverrideExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample1/src/StudentCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample1/src/StudentCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InstanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstanceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VirtualPetGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VirtualPetGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,33 +64,70 @@
         <counts>
           <entry key="dummy" value="23" />
           <entry key="ft" value="2" />
-          <entry key="java" value="8584" />
-          <entry key="txt" value="319" />
+          <entry key="java" value="10157" />
+          <entry key="txt" value="345" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8584" />
-          <entry key="PLAIN_TEXT" value="342" />
+          <entry key="JAVA" value="10157" />
+          <entry key="PLAIN_TEXT" value="368" />
           <entry key="VTL" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="37" />
+          <entry key="java" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudentCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IStudentCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OverrideExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,9 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PrintExample.java" />
-        <option value="$PROJECT_DIR$/src/PrintExample2.java" />
-        <option value="$PROJECT_DIR$/src/VariableExample.java" />
         <option value="$PROJECT_DIR$/src/VariableExample2.java" />
         <option value="$PROJECT_DIR$/src/CalcExample.java" />
         <option value="$PROJECT_DIR$/src/TypeExample.java" />
@@ -141,12 +178,9 @@
         <option value="$PROJECT_DIR$/src/ReturnExample2.java" />
         <option value="$PROJECT_DIR$/src/OverExample.java" />
         <option value="$PROJECT_DIR$/src/OverExample2.java" />
-        <option value="$PROJECT_DIR$/src/InstanceExample.java" />
         <option value="$PROJECT_DIR$/src/InstanceExample2.java" />
         <option value="$PROJECT_DIR$/src/InstanceArrayExample.java" />
         <option value="$PROJECT_DIR$/src/ReferenceExample.java" />
-        <option value="$PROJECT_DIR$/src/VirtualPetGame.java" />
-        <option value="$PROJECT_DIR$/src/StudentCard.java" />
         <option value="$PROJECT_DIR$/src/ConstructorExample.java" />
         <option value="$PROJECT_DIR$/constract_test/src/InstanceMethodExample.java" />
         <option value="$PROJECT_DIR$/constract_test/src/StudentCard.java" />
@@ -154,9 +188,17 @@
         <option value="$PROJECT_DIR$/constract_test/src/StaticVariableExample.java" />
         <option value="$PROJECT_DIR$/constract_test/src/StaticMethodExample.java" />
         <option value="$PROJECT_DIR$/constract_test/src/SimpleCalc.java" />
-        <option value="$PROJECT_DIR$/sample1/src/StudentCard.java" />
         <option value="$PROJECT_DIR$/sample1/src/ReferenceExample.java" />
         <option value="$PROJECT_DIR$/sample1/src/Instance_sample.java" />
+        <option value="$PROJECT_DIR$/src/VirtualPetGame.java" />
+        <option value="$PROJECT_DIR$/sample1/src/StudentCard.java" />
+        <option value="$PROJECT_DIR$/sample1/src/IStudentCard.java" />
+        <option value="$PROJECT_DIR$/sample1/src/InheritanceExample.java" />
+        <option value="$PROJECT_DIR$/src/InstanceExample.java" />
+        <option value="$PROJECT_DIR$/src/StudentCard.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceExample.java" />
+        <option value="$PROJECT_DIR$/src/IStudentCard.java" />
+        <option value="$PROJECT_DIR$/src/OverrideExample.java" />
       </list>
     </option>
   </component>
@@ -190,12 +232,6 @@
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="sample1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="sample1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -208,7 +244,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/masato/workspace/Java/constract_test/src/ConstractorExample.java&#10;受け取った値&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538279277787" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538294161716" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -229,10 +265,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Instance_sample">
-    <configuration name="ConstractorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstractorExample" />
-      <module name="constract_test" />
+  <component name="RunManager" selected="Application.OverrideExample">
+    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceExample" />
+      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -244,6 +280,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverrideExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverrideExample" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReferenceExample" />
       <module name="sample1" />
@@ -251,34 +294,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticMethodExample" />
-      <module name="constract_test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticVariableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticVariableExample" />
-      <module name="constract_test" />
+    <configuration name="VirtualPetGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualPetGame" />
+      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConstractorExample" />
-      <item itemvalue="Application.StaticVariableExample" />
-      <item itemvalue="Application.StaticMethodExample" />
       <item itemvalue="Application.Instance_sample" />
       <item itemvalue="Application.ReferenceExample" />
+      <item itemvalue="Application.VirtualPetGame" />
+      <item itemvalue="Application.InheritanceExample" />
+      <item itemvalue="Application.OverrideExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverrideExample" />
+        <item itemvalue="Application.InheritanceExample" />
+        <item itemvalue="Application.VirtualPetGame" />
         <item itemvalue="Application.Instance_sample" />
         <item itemvalue="Application.ReferenceExample" />
-        <item itemvalue="Application.StaticMethodExample" />
-        <item itemvalue="Application.StaticVariableExample" />
-        <item itemvalue="Application.ConstractorExample" />
       </list>
     </recent_temporary>
   </component>
@@ -295,35 +331,7 @@
       <workItem from="1537879926489" duration="6980000" />
       <workItem from="1537973532343" duration="1646000" />
       <workItem from="1538120219282" duration="2241000" />
-      <workItem from="1538138642279" duration="28156000" />
-    </task>
-    <task id="LOCAL-00004" summary="変数の出力サンプル２">
-      <created>1537881064228</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1537881064228</updated>
-    </task>
-    <task id="LOCAL-00005" summary="更新">
-      <created>1537881146785</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1537881146785</updated>
-    </task>
-    <task id="LOCAL-00006" summary="計算をするサンプルプログラム">
-      <created>1537881437090</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1537881437090</updated>
-    </task>
-    <task id="LOCAL-00007" summary="計算をするサンプルプログラム">
-      <created>1537885337215</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1537885337215</updated>
+      <workItem from="1538138642279" duration="33077000" />
     </task>
     <task id="LOCAL-00008" summary="型変換プログラム">
       <created>1537885799872</created>
@@ -640,7 +648,35 @@
       <option name="project" value="LOCAL" />
       <updated>1538279195914</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="コンストラクタ">
+      <created>1538279219725</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1538279219725</updated>
+    </task>
+    <task id="LOCAL-00054" summary="コンストラクタフォルダ作成">
+      <created>1538279276695</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1538279276695</updated>
+    </task>
+    <task id="LOCAL-00055" summary="サンプル１フォルダ作成">
+      <created>1538279303572</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1538279303572</updated>
+    </task>
+    <task id="LOCAL-00056" summary="更新">
+      <created>1538279312989</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1538279312989</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -652,10 +688,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39023000" />
+    <option name="totallyTimeSpent" value="43944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="805" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -666,7 +703,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31837308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2917251" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39831698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -694,9 +731,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="論理演算子練習" />
-    <MESSAGE value="配列サンプル２" />
-    <MESSAGE value="for文" />
     <MESSAGE value="乱数（じゃんけん）" />
     <MESSAGE value="クラスメソッド１" />
     <MESSAGE value="クラスメソッド２" />
@@ -713,13 +747,16 @@
     <MESSAGE value="インスタンスサンプル２＿参照型" />
     <MESSAGE value="インスタンスサンプル３" />
     <MESSAGE value="バーチャルペット・ゲームの作成" />
-    <MESSAGE value="更新" />
     <MESSAGE value="studentCardクラス作成" />
     <MESSAGE value="サンプル出力" />
     <MESSAGE value="クラス変数" />
     <MESSAGE value="クラスメソッド" />
     <MESSAGE value="インスタンスメソッド" />
-    <option name="LAST_COMMIT_MESSAGE" value="インスタンスメソッド" />
+    <MESSAGE value="コンストラクタ" />
+    <MESSAGE value="コンストラクタフォルダ作成" />
+    <MESSAGE value="サンプル１フォルダ作成" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VariableExample.java">
@@ -956,13 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InstanceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InstanceExample2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -981,13 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1026,28 +1049,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VirtualPetGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/constract_test/src/InstanceMethodExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample1/src/StudentCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1069,6 +1074,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VirtualPetGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1/src/IStudentCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1/src/InheritanceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1/src/StudentCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InstanceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IStudentCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OverrideExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>

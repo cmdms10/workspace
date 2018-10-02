@@ -5,7 +5,11 @@ public class Sample4_1 {
         System.out.println("文字列を入力してください");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
-        System.out.println(str+"が入力されました");
+
+        int num = Integer.parseInt(str);
+        System.out.println(num+"が入力されました");
+        num *= 3;
+        System.out.println(num);
     }
 
 }

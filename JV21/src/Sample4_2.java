@@ -10,7 +10,7 @@ public class Sample4_2 {
         System.out.println("num1+num2は"+(num1+num2)+"です。");
         System.out.println("num1-num2は"+(num1-num2)+"です。");
         System.out.println("num1*num2は"+(num1*num2)+"です。");
-        System.out.println("num1%num2は"+(num1/num2)+"です。");
+        System.out.println("num1÷num2は"+(num1/num2)+"です。");
         System.out.println("num1%num2の余りは"+(num1%num2)+"です。");
     }
 }

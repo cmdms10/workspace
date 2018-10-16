@@ -1,4 +1,4 @@
-class StudentCard {
+public class StudentCard {
 
     //クラス変数(フィールド(情報)の宣言)
     static int counter = 0;
@@ -21,12 +21,12 @@ class StudentCard {
         System.out.println(StudentCard.counter);
     }
 
-    /*
+
     //クラスメソッドの宣言(メソッド(機能)の宣言)
     static double getTriangleArea(double base, double height) {
         return base * height / 2;
     }
-    */
+
 
 
 

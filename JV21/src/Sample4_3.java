@@ -2,6 +2,7 @@ import java.io.*;
 
 public class Sample4_3 {
     public static void main(String[] args) throws IOException {
+        /**/
         System.out.println("整数を３つ入力してください。");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 /*        String str1 = br.readLine();

@@ -1,5 +1,6 @@
 public class Sample3_1 {
     public static void main(String[] args) {
+        /*変数*/
         int num ;
         num = 3;
 

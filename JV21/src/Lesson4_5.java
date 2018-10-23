@@ -18,7 +18,9 @@ public class Lesson4_5 {
 
         System.out.println("5科目の合計点は"+sum+"点です。");
 
-        double ave = (double)sum/5;
-        System.out.println("5科目の平均点は"+ave+"点です。");
+/*        double ave = (double)sum/5;
+        System.out.println("5科目の平均点は"+ave+"点です。");*/
+
+        System.out.println("5科目の平均は"+(sum/(double)5)+"点です。");
     }
 }

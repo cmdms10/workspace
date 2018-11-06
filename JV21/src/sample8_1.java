@@ -2,7 +2,20 @@ class Car {
     int num;
     double gas;
 
+    void setNum(int n) {
+        num = n;
+        System.out.println("車のナンバーを"+num+"にセットしました");
+    }
+
+    void setGas(double gas) {
+        this.gas = gas;
+        System.out.println("ガソリンの量を"+gas+"にセットしました");
+
+    }
+
+
     void show() {
+        System.out.print("\n");
         System.out.println("車のナンバーは"+num+"です。");
         System.out.println("ガソリンの量は"+gas+"です。");
     }

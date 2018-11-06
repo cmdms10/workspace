@@ -3,7 +3,7 @@ public class sample7_10 {
         /*多次元配列*/
         /*型名[][] 配列名 = new 型名[要素数][要素数];*/
         int[][] test;
-        test = new int [2][5];  /*2*5→10の要素*/
+        test =new int [2][5];  //2*5→10の要素
 
         test[0][0] = 80;
         test[0][1] = 60;
@@ -17,10 +17,6 @@ public class sample7_10 {
         test[1][3] = 72;
         test[1][4] = 58;
 
-        /*多次元配列の要素*/
-/*
-        int [][] test = {{80,60,22,50},{90,55,68,72},{33,75,63}};
-*/
 
         /*２科目５人の得点出力*/
         /*for(int i=0; i<2; i++) {
@@ -35,5 +31,22 @@ public class sample7_10 {
             }
             System.out.println();
         }
+
+        /*多次元配列の要素*/
+/*
+        int[][] test = {{80,60,22,50},{90,55,68,72},{33,75,63}};
+*/
+
+        /*配列の要素数を指定できる*/
+/*
+
+        int[] test = new int[5];
+
+        int num = 5;
+        int[] test = new int[num];
+*/
+
+
+
     }
 }

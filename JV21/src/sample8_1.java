@@ -1,3 +1,4 @@
+/*Carクラス作成*/
 class Car {
     int num;
     double gas;
@@ -20,7 +21,7 @@ class Car {
         System.out.println("ガソリンの量は"+gas+"です。");
     }
 }
-
+/*インスタンス作成*/
 public class sample8_1 {
     public static void main(String[] args) {
         Car car1 = new Car();

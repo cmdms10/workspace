@@ -3,7 +3,7 @@ class Car {
     int num;
     double gas;
 
-    void setNum(int n) {
+    /*void setNum(int n) {
         num = n;
         System.out.println("車のナンバーを"+num+"にセットしました");
     }
@@ -12,17 +12,44 @@ class Car {
         this.gas = gas;
         System.out.println("ガソリンの量を"+gas+"にセットしました");
 
+    }*/
+
+//    void show() {
+//        System.out.print("\n");
+//        System.out.println("車のナンバーは"+num+"です。");
+//        System.out.println("ガソリンの量は"+gas+"です。");
+//    }
+
+
+
+
+//    ナンバーのgetメソッド
+    int getNum() {
+        System.out.println("ナンバーを調べました。");
+        return num;
     }
 
+//    ガソリンのgetメソッド
+    double getGas() {
+        System.out.println("ガソリンの量を調べました。");
+        return gas;
+    }
 
+//    ナンバーとガソリンのsetメソッド
+    void setNumGas(int n,double g) {
+        num = n;
+        gas = g;
+        System.out.println("車のナンバーを"+num+"に、ガソリンの量を"+gas+"にしました");
+    }
+
+//    表示用メソッド
     void show() {
-        System.out.print("\n");
-        System.out.println("車のナンバーは"+num+"です。");
-        System.out.println("ガソリンの量は"+gas+"です。");
+        System.out.println("車のナンバーは"+num+"です");
+        System.out.println("ガソリンの量は"+gas+"です");
     }
 }
 /*インスタンス作成*/
-public class sample8_1 {
+/*class sample8_1 {
     public static void main(String[] args) {
         Car car1 = new Car();
         Car car2 = new Car();
@@ -44,4 +71,4 @@ public class sample8_1 {
         car2.show();
 
     }
-}
+}*/

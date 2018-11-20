@@ -1,4 +1,4 @@
-public class sample8_4 {
+/*public class sample8_4 {
     public static void main(String[] args) {
         Car car1 = new Car();
 
@@ -7,4 +7,4 @@ public class sample8_4 {
 
         car1.show();
     }
-}
+}*/

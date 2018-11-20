@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JV21.iml" filepath="$PROJECT_DIR$/JV21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai/kadai.iml" filepath="$PROJECT_DIR$/kadai/kadai.iml" />
     </modules>
   </component>
 </project>

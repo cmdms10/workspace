@@ -1,9 +1,9 @@
-/*Carクラス作成*/
+/*Carクラス作成*//*
 class Car {
     int num;
     double gas;
 
-    /*void setNum(int n) {
+    void setNum(int n) {
         num = n;
         System.out.println("車のナンバーを"+num+"にセットしました");
     }
@@ -12,7 +12,7 @@ class Car {
         this.gas = gas;
         System.out.println("ガソリンの量を"+gas+"にセットしました");
 
-    }*/
+    }
 
 //    void show() {
 //        System.out.print("\n");
@@ -47,7 +47,7 @@ class Car {
         System.out.println("車のナンバーは"+num+"です");
         System.out.println("ガソリンの量は"+gas+"です");
     }
-}
+}*/
 /*インスタンス作成*/
 /*class sample8_1 {
     public static void main(String[] args) {
